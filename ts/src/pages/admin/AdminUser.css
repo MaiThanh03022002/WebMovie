@@ -1,0 +1,36 @@
+  
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 100px;
+  }
+  
+  table th,
+  table td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 7%;
+  }
+  
+  .actions {
+    text-align: center;
+  }
+  
+  .add-new-tour {
+    display: block;
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
+  .hidden {
+    display: none;
+  }
+
+  .button-container{
+    padding-top: 10px;
+    display: flex;
+    grid-template-columns: repeat(2);
+    gap: 10px;
+    margin-left: 42%;
+  }

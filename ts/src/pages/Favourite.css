@@ -1,0 +1,38 @@
+.movies-body{
+    width: 100%;
+    margin-top: 200px;
+}
+.movies-top{
+    align-items: center;
+    text-align: center;
+}
+.movies-top button{
+    width: 300px;
+    height: 10px;
+   background-color: green;
+   border-radius: 4px;
+   border: none;
+}
+.movies-container-top{
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px 200px;
+    gap:50px;
+    justify-content: center;
+    width: 100%;
+}
+.movies-slot{
+    width: 200px;
+    cursor: pointer;
+    margin: 30px 30px 30px 30px;
+}
+.movies-slot img{
+    display: block;
+    width: 200px;
+    align-items: center;
+    text-align: center;
+}
+.movies-slot p{
+    font-size: 1.5rem;
+    font-weight: 400px;
+    color: green;
+}

@@ -1,0 +1,54 @@
+.footer{
+    background-color: while;
+    width: 100%;
+}
+.row-foo{
+    padding: 5%;
+    display: flex;
+    width: 100%;
+}
+.row-1{
+    width: 30%;
+    margin-right: 5%;
+}
+.row-2{
+    width: 30%;
+    margin-right: 5%;
+}
+.row-3{
+    width: 30%;
+}
+.row-1-head{
+    font-size: 1.5rem;
+    font-weight: 400px;
+}
+.row-2-head{
+    font-size: 1.5rem;
+    font-weight: 400px;
+}
+.row-3-head{
+    font-size: 1.5rem;
+    font-weight: 400px; 
+}
+.disable-bottom-line{
+    display: block;
+    width: 300px;
+    height: 7px;
+    background-color: green;
+}
+.row-1 p{
+    font-size: 1.2rem;
+    font-weight: 400px; 
+}
+.row-2 p{
+    font-size: 1.2rem;
+    font-weight: 400px; 
+}
+.row-3 p{
+    font-size: 1.2rem;
+    font-weight: 400px; 
+}
+.row-2 p a{
+    text-decoration: none;
+    color: green;
+}
